@@ -1,11 +1,11 @@
 # UFOs
 
 ## Overview of the analysis:
-Explain the purpose of this analysis.
+The purpose of this project is to provide an in-depth analysis of UFO sightings.
 
 
 ## Results:
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+This web page allows anyone to do a more in-depth analysis by allowing users to filter for multiple criteria at the same time.
 
 ### Header
 
@@ -13,6 +13,7 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 
 ### Filter Table
+In addition to the date, you’ll add table filters for the city, state, country, and shape. Simply type in the filter into the appropriate search box, and press enter. To clear the search, press filter search.
 
 ![](static/images/UFO2.PNG)
 
