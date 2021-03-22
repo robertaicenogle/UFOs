@@ -7,12 +7,12 @@
 
 ### Images
 
-![](Static/images/UFO1.PNG)
+![](static/images/UFO1.PNG)
 
 
 
 
-![](Static/images/UFO1.PNG)
+![](static/images/UFO1.PNG)
 
 ## Summary
 
